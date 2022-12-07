@@ -1,0 +1,21 @@
+<h3>{{numrows}} Records Found</h3>
+<table class="table table-striped custab">
+  <thead>
+      <tr>
+         <th>Name</th>
+         <th>location</th>
+         <th>price</th>
+         <th>Url</th>
+         <th>DateAdd</th>
+      </tr>
+  </thead>
+  <tbody>
+{% for row in employee %}  
+   <tr>
+    <td>{{row.Name}}</td>
+    <td>{{row.Location}}</td>
+    <td>{{row.Price}}</td>
+    <td>{{row.Url}}</td>
+    <td>{{row.DateAdd}}</td>
+   </tr>
+{% endfor %} 
