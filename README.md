@@ -1,3 +1,8 @@
 # API
-get method
-post method
+incluing :
+- app.py
+- myscraping.py
+- /templates
+  - index.html
+  - response.html
+
