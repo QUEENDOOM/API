@@ -8,6 +8,7 @@ incluing :
 
 ## app.py
 ref : https://github.com/alexferl/flask-mysqldb
+
 Database : XAMPP(MySQL)
 
 
