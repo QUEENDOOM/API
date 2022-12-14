@@ -1,5 +1,5 @@
 # API
-incluing :
+including :
 - app.py
 - myscraping.py
 - /templates
