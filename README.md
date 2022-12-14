@@ -23,6 +23,7 @@ url = 'https://th.zmyhome.com/search/result?id=1&type=Province&lat=&lng=&sort=di
 
 ## /template/index.html
 link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+
 script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js", "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"
 .CSS : background-image: url(https://c10.patreonusercontent.com/4/patreon-media/p/post/75467976/3b023cf60a3c404e91897e6480d9157a/eyJ3Ijo2MjB9/1.gif?token-time=1671580800&token-hash=IWfownqaqQ_SpXiQ9cnouQE1I5Q_9JxR9tGBHCEi3Qg%3D)
 
