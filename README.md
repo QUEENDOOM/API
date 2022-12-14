@@ -10,7 +10,7 @@ incluing :
 - condos for rent in Bangkok only
 - input range (scearch bar) : Name/Location/price/URL/DataAdd
 - output : Name, Location, price, URL, DataAdd
-- maximum data : 229 pages, scraping : 50 pages
+- maximum data : 229 pages, testing : 50 pages
 
 # reference
 ## app.py
